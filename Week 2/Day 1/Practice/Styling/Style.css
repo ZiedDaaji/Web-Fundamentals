@@ -1,0 +1,31 @@
+* {
+    margin: 10px;
+    padding: 10px;
+}
+h1{
+    color: #ffff;
+    background-color: black;
+    font-family: cursive;
+}
+h1 span{
+    color: aqua;
+    margin: 0;
+    padding: 0;
+}
+h2{
+    color: #ffff;
+    background-color: #6f2b8a;
+    text-align: center;
+    font-style:italic;
+    font-family:cursive;
+    font-weight: normal;
+}
+h3{
+
+    color: rgb(65, 16, 110);
+    background-color: #0c79816c;
+    text-decoration: underline;
+    text-align: right;
+    font-family: cursive;
+    font-weight: normal;
+}
