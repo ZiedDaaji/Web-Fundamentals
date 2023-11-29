@@ -1,0 +1,39 @@
+.box{
+    padding: 50px;
+}
+#search, #plus, #account{
+    margin: 10px;
+}
+
+#search {
+    color: rgb(8, 211, 211);
+    border: 2px solid rgb(8, 209, 209);
+    border-radius: 20px;
+    width: 130px;
+    height: 25px;   
+    text-align: center;
+    font-weight: bold;
+}
+
+#plus {
+    color: #fff;
+    background-color: rgb(47, 192, 161);
+    border-radius: 50px;
+    border: transparent;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    font-size: 25px;
+
+}
+
+#account {
+    color: #fff;
+    text-align: center;
+    background-color: blue;
+    border: 2px solid black;
+    font-weight: lighter;
+    width: 150px;
+    height: 30px;
+    box-shadow: 3px 3px black;
+}
