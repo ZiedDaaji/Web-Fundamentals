@@ -1,0 +1,37 @@
+
+.img {
+    width: 200px;
+    height: 200px;
+    background-color: transparent;
+}
+
+.box {
+    width: 900px;
+    height: 900px;
+    background-color: aquamarine;
+    display: block;
+}
+.text{
+    display: flex;
+    justify-content: center;
+}
+.first {
+    background-color: rgba(224, 24, 24, 0.733);
+}
+.second{
+    background-color: rgba(128, 128, 128, 0.733);
+}
+
+.third{
+    background-color: rgba(187, 95, 95, 0.733);
+}
+.first, .second, .third{
+    height: 250px;
+    width: 800px;
+    display: flex;;
+    justify-content: space-evenly ;
+    align-items: center;
+    margin:0px 50px 20px 50px;
+}
+
+
