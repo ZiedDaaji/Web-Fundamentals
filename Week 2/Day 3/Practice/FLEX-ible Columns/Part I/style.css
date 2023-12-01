@@ -1,0 +1,10 @@
+.row { 
+    display: flex;
+    justify-content: space-evenly;
+}
+.col{
+    background-color: blueviolet;
+    padding: 20px;
+    margin: 20px;
+    flex: 1;
+}
