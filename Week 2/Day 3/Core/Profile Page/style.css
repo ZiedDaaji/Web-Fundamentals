@@ -22,8 +22,10 @@ header{
 #prof{
     color: #fff;
     font-weight: normal;
+    text-decoration: none;
+    text-indent: none;
 }
-a{
+#home, #connection{
     color: gray;
     text-decoration: none;
     text-indent: none;
