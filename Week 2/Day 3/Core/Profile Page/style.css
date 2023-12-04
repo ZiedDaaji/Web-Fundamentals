@@ -80,7 +80,6 @@ header{
     height: 170px;
     display: flex;
     flex-direction: column;
-
 }
 .education{
     height: 350px;
@@ -88,7 +87,7 @@ header{
     flex-direction: column;
 }
 .connections{
-    height: 320px;
+    height: 300px;
     display: flex;
     flex-direction: column;
 }
@@ -136,7 +135,7 @@ header{
     justify-content: center;
     align-items: center;
 }
-.text1, .text2, .text3, .text4, .footer1{
+.text1, .text2, .text3, .text4{
     border-left: 2px solid rgb(167, 164, 164);
     border-right: 2px solid rgb(167, 164, 164);
     border-bottom: 2px solid rgb(167, 164, 164);
@@ -156,8 +155,8 @@ header{
     height: 100px;
 }
 .text4{
-    height: 200px;
-    scroll-behavior: auto;
+    height: 180px;
+    overflow: auto;
 }
 
 #photo{
@@ -216,8 +215,14 @@ header{
     gap: 20px;
 } 
 .footer1{
-    background-color: #fff;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    border-left: 2px solid rgb(167, 164, 164);
+    border-right: 2px solid rgb(167, 164, 164);
+    border-bottom: 2px solid rgb(167, 164, 164);
+    height: 50px;
+    padding-left: 15px;
+    display: flex;
+    align-items: center;
 }
 a{
     color: #000;
