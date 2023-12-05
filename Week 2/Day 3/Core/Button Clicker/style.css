@@ -22,7 +22,7 @@ body{
     font-family: cursive;
 }
 #log{
-    background-color: rgb(8, 8, 219);
+    background-color: #2B78E4;
     border: 2px solid black;
     color: #fff;
     width: 60px;
@@ -82,14 +82,21 @@ body{
     justify-content: space-around;
     border: 3px solid black;
     font-family: cursive;
-    font-size: medium;
-    
+}
+h2{
+    font-family: cursive;
+    font-weight: 500;
+}
+.add span{
+    font-family: cursive;
+    font-weight: 900;
+    color: black;
 }
 #like1, #like2{
     width: 90px;
     height: 35px;
     border: 2px solid black;
-    background-color: rgba(218, 189, 64, 0.973);
+    background-color: #FFD966;
     box-shadow: 3px 3px black;
     font-family: cursive;
     font-size: medium;
@@ -99,7 +106,7 @@ body{
     width: 200px;
     height: 35px;
     border: 2px solid black;
-    background-color: rgba(70, 155, 105, 0.904);
+    background-color: #93C47D;
     box-shadow: 3px 3px black;
     align-self: center;
     font-family: cursive;
